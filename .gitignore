@@ -1,0 +1,4 @@
+node_modules/
+data/books.json
+.env
+.DS_Store
